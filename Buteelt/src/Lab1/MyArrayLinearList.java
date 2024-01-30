@@ -76,7 +76,7 @@ public class MyArrayLinearList extends ArrayList {
 		System.out.println("1.Add\n2.Remove\n3.Print\n-1.end");
 		System.out.println("Command ?");
 		cmd = sc.nextInt();
-		
+//		commemnt 7:46
 		
 		while (cmd !=-1) {
 			switch(cmd) {
