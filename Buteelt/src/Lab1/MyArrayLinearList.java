@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-
+// 7:47
 
 
 public class MyArrayLinearList extends ArrayList {
