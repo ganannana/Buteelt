@@ -3,7 +3,7 @@ package Lab1;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
-
+//  2024-02-27 17:55
 public class MyArrayLinearList<T extends Comparable<T>> extends ArrayList<T> {
 
     public MyArrayLinearList() {
